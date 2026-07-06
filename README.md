@@ -6,8 +6,8 @@
 
 🎓 &nbsp;**Estudiante de Ingeniería de Sistemas** en la UNFV (Lima, Perú) — con experiencia real, no solo trabajos de clase.\
 💼 &nbsp;~2 años **desarrollando full-stack**, apoyando y construyendo proyectos de principio a fin.\
-🛠️ &nbsp;Mi base sólida: **Next.js · NestJS · FastAPI **.\
-🤖 &nbsp;Ampliándome hacia la **IA aplicada**: ya hice cursos de **LangChain y LangGraph** (agentes, tools, RAG) y desarrollé mi primer producto con un asistente de IA.
+🛠️ &nbsp;Mi base sólida: **Next.js · NestJS · FastAPI · Django · React **.\
+🤖 &nbsp;Ampliándome hacia la **IA aplicada** con **LangChain y LangGraph** (agentes, tools, RAG).
 
 <p align="center">
   <a href="https://franciscosalcedo.engineer/"><img src="https://img.shields.io/badge/-🌐%20Ver%20mi%20Portfolio%20de%20proyectos-3423A6?style=for-the-badge&logoColor=white"/></a>
@@ -35,11 +35,11 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langchain)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=44B78B)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 <br clear="right"/>
@@ -55,6 +55,6 @@
 
 <p align="center">
   <a href="https://franciscosalcedo.engineer/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/francisco-jose-salcedo-morales-1791b8303"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="salcedomoralesfranciscojose@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/francisco-jose-salcedo-morales-1791b8303"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:salcedomoralesfranciscojose@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
