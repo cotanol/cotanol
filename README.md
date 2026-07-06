@@ -1,4 +1,4 @@
-![Francisco — Estudiante de Ingeniería de Sistemas & Desarrollador Full-Stack](./assets/banner.png)
+![Francisco — Estudiante de Ingeniería de Sistemas & Desarrollador Full-Stack](./assets/banner.jpg)
 
 ## ¡Hola! Soy Francisco 👋
 
@@ -8,9 +8,12 @@
 💼 &nbsp;~2 años **desarrollando full-stack**, apoyando y construyendo proyectos de principio a fin.\
 🛠️ &nbsp;Mi base sólida: **Next.js · React · NestJS · FastAPI · Django**.\
 🤖 &nbsp;Ampliándome hacia la **IA aplicada**: ya hice cursos de **LangChain y LangGraph** (agentes, tools, RAG) y desarrollé mi primer producto con un asistente de IA.\
-🚀 &nbsp;Construí y desplegué un SaaS multitenant con asistente de IA — **pruébalo en el demo de abajo**.\
 💬 &nbsp;Disponible para **proyectos freelance** y **prácticas pre-profesionales**.\
 ✉️ &nbsp;Escríbeme a **TU_CORREO@ejemplo.com** — respondo rápido.
+
+<p align="center">
+  <a href="https://franciscosalcedo.engineer/"><img src="https://img.shields.io/badge/-🌐%20Ver%20mi%20Portfolio%20de%20proyectos-3423A6?style=for-the-badge&logoColor=white"/></a>
+</p>
 
 ### 🚀 &nbsp;Proyecto destacado — Asistente de IA (demo en vivo)
 
@@ -19,7 +22,7 @@ ayuda a encontrar el lugar ideal solo con describir la fiesta, con seguimiento d
 leads para los dueños. Hecho con **Next.js + LangChain**. Es el tipo de producto
 full-stack que puedo construir y desplegar de punta a punta.
 
-**👉 [Probar el demo en vivo](LINK_A_TU_DEMO)** &nbsp;·&nbsp; *(agrega 1–2 capturas abajo)*
+**👉 [Probar el demo en vivo](LINK_A_TU_DEMO)** &nbsp;·&nbsp; **[Ver todos mis proyectos](LINK_A_TU_PORTFOLIO)**
 
 <!-- ![Captura del demo](./assets/demo-1.png) -->
 
@@ -35,6 +38,8 @@ full-stack que puedo construir y desplegar de punta a punta.
 - ☁️ Estudiando para una **certificación de IA de Microsoft Azure** (agentes / servicios de Azure AI)
 - 🤖 Llevando lo aprendido de **LangGraph** (agentes y flujos multi-agente) a producción
 - 📚 Profundizando en apps LLM production-grade (RAG, tool calling, evals)
+
+<img alt="Coding" src="./assets/monkey.gif" width="230" align="right"/>
 
 ### 🛠 &nbsp;Tecnologías
 
@@ -55,18 +60,14 @@ full-stack que puedo construir y desplegar de punta a punta.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-> *(Deja SOLO lo que usas de verdad — un stack enfocado se ve más pro que uno inflado.)*
+> 
+<br clear="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!--
-  ⚠️ El servidor público suele saturarse y a veces no carga.
-  Si te falla seguido: despliega tu propia instancia de github-readme-stats en Vercel,
-  o simplemente borra esta sección (un card roto se ve peor que no tenerlo).
--->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cotanol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotanol&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-pied-five-64.vercel.app/api?username=cotanol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-pied-five-64.vercel.app/api/top-langs/?username=cotanol&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ### 🤝🏻 &nbsp;Conecta conmigo
